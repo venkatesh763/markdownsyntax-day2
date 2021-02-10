@@ -72,7 +72,6 @@ fun()
 - git push remotename branchname
 - git pull remotename branchname
 ## Inserting Images
-    
-    
+![Image](https://github.com/madevi431/markdownsyntax-day2/blob/master/img1.jpg)
 
 
