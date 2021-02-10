@@ -1,2 +1,7 @@
-# markdownsyntax-day2
-day 2 kits ece about markdown syntax
+# Home automation by alexa
+## components
+### circuit diagram
+#### analysis
+##### ouput observation
+###### conclusion
+####### noraml text(not a heading)
