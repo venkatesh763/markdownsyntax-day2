@@ -71,6 +71,7 @@ fun()
 - git commit -m "message"
 - git push remotename branchname
 - git pull remotename branchname
+## Inserting Images
     
     
 
