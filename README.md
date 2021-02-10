@@ -42,11 +42,10 @@ cv bnjkn m
     + eeeA
     + eeeB
 ## Code of function defination
-`
+```
 def fun():
-
     print("welcome to github workshop by apssdc")
-`
+```
 ## function calling
 `
 fun()
